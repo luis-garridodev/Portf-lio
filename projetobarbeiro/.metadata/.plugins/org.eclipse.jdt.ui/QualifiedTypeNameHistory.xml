@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.api.Usuario.Models.Cliente"/>
+    <fullyQualifiedTypeName name="com.api.Usuario.Models.Chamados"/>
+    <fullyQualifiedTypeName name="com.api.Usuario.Repository.UsuarioRepository"/>
+    <fullyQualifiedTypeName name="com.api.Usuario.Models.Usuario"/>
+</qualifiedTypeNameHistroy>

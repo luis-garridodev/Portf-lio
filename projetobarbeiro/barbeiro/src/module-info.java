@@ -1,0 +1,2 @@
+module barbeiro {
+}
